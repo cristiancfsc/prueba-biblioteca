@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-13T00:21:06.775Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="_GgI4dX6dNvk3NK4iSiW" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-13T00:47:25.372Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="OQRTq5kL1wG9ZjjXRZOd" version="17.1.2" type="github">
   <diagram id="xDp_UZXrFU2MVsb3rIQj" name="Page-1">
     <mxGraphModel dx="782" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,10 +11,10 @@
           <mxGeometry y="30" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="OTin1VybhA9kBSTks7Oy-16" value="AUTOR" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="1" vertex="1">
-          <mxGeometry x="570" y="80" width="160" height="120" as="geometry" />
+          <mxGeometry x="570" y="80" width="160" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="OTin1VybhA9kBSTks7Oy-17" value="CODIGO DE AUTOR&#xa;NOMBRE&#xa;APELLIDO&#xa;NACIMIENTO-MUERTE&#xa;TIPO AUTOR" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="OTin1VybhA9kBSTks7Oy-16" vertex="1">
-          <mxGeometry y="30" width="160" height="90" as="geometry" />
+        <mxCell id="OTin1VybhA9kBSTks7Oy-17" value="CODIGO DE AUTOR&#xa;NOMBRE&#xa;APELLIDO&#xa;NACIMIENTO&#xa;MUERTE&#xa;TIPO AUTOR" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="OTin1VybhA9kBSTks7Oy-16" vertex="1">
+          <mxGeometry y="30" width="160" height="100" as="geometry" />
         </mxCell>
         <mxCell id="OTin1VybhA9kBSTks7Oy-18" value="SOCIOS" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" parent="1" vertex="1">
           <mxGeometry x="570" y="270" width="160" height="120" as="geometry" />
